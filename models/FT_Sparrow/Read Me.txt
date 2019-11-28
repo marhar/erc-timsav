@@ -1,0 +1,4 @@
+For foamboard size - A1
+Cutting speed - 2000mm/minute
+Full cut - 90 degree or M3 S90
+Score cut - 60 degree or M3 S60
