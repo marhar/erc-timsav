@@ -1,0 +1,7 @@
+Print setting
+
+Layer height - 0.3 (functional. not for beauty)
+Outer perimeter - 3 layers
+Infill - all at 25%
+
+Print 1 piece per file, unless specified behind the file name such as "spacer x4" means you need to print 4 
